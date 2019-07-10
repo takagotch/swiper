@@ -1,4 +1,4 @@
-### seiper
+### swiper
 ---
 https://github.com/nolimits4web/Swiper
 
