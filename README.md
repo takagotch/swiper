@@ -2,7 +2,7 @@
 ---
 https://github.com/nolimits4web/Swiper
 
-```
+```sh
 npm install --global gulp
 npm install
 npm run build:dev
